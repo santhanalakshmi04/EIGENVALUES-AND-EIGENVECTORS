@@ -19,7 +19,7 @@ values,vectors=np.linalg.eig(A)
 print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/santhanalakshmi04/EIGENVALUES-AND-EIGENVECTORS/assets/119475762/38867e2d-4078-4481-907d-cc0c2c54ee4c)
 
 
 ## Result:
